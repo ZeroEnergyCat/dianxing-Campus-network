@@ -1,2 +1,2 @@
-# dianxingxiaoyuanwang
-电信校园网
+实现过程：
+通过WireShark截获注册时IP地址。使用python编写一个爬虫程序模拟，不断的进行访问而获得近免费的网络
